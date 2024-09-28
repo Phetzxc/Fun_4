@@ -1,5 +1,6 @@
 
 ---
+นี่คือตัวอย่างการแสดงภาพใน README:
 
 # 3 DOF ROBOT
 
@@ -17,7 +18,8 @@ ros2 launch example_description launch_all.launch.py
 ```bash
 ros2 run example_description plot_ws.py
 ```
-
+ภาพ workspace 3DOF:
+![workspace 3DOF](https://drive.google.com/file/d/1QSp2BpnOOvIMrZCkagKZIIdD9IZ15D9Q/view)
 ภาพจำลองworkspaceจะขึ้นมาทุกครั้ง
 
 ### 2. Node สำหรับสุ่มเป้าหมาย (0.5 คะแนน)
